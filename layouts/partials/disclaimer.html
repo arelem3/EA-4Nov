@@ -1,0 +1,16 @@
+
+<div class="disclaimer">
+	{{ range .Site.Data.disclaimer }}
+	<div class="f8-s">
+		{{ .opinion1 }} 
+		{{ .opinion2 }} &nbsp;
+		{{ .copyright }} </br>
+		{{ .rights }}  
+		{{ .trademarks }} 
+		
+			<div class="ensmallen">
+			Presented by  {{ .yearea }}
+		   	 </div>
+	</div>
+	{{ end }}
+</div>

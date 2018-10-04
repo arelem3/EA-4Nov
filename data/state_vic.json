@@ -1,0 +1,131 @@
+{
+
+	"Moorabbin": {
+		"id" : "els",
+		"venue": "ECK Community Centre",
+		"address": "10,3 Tuck Street",
+		"time": "11AM - 12Noon",
+
+		"day": "Sunday",
+		"when1": "23 August",
+		"when2": "25 September",
+		"when3": "25 October"
+
+	},
+
+	"Moorabbin": {
+		"id" : "sos",
+		"venue": "ECK Community Centre",
+		"address": "10,3 Tuck Street",
+		"time": "10:30AM to 12 Noon",
+		"day": "Sunday",
+		
+		"when1": "21 August",
+		"when2": "25 September",
+		"when3": "25 October"
+
+	},
+
+
+	"Boronia": {
+		"id" : "els",
+		"venue": "Boronia Progress Hall",
+		"address": "34 Boronia Rd Boronia",
+		"time": "11AM - 12Noon",
+
+		"day": "Sunday",
+		"when1": "23 August",
+		"when2": "25 September",
+		"when3": "25 October"
+
+	},
+
+	"Boronia": {
+		"id" : "sos",
+		"venue": "Boronia Progress Hall",
+		"address": "34 Boronia Rd Boronia",
+		"time": "10:30AM to 12 Noon",
+		"day": "Sunday",
+		"when1": "21 August",
+		"when2": "25 September",
+		"when3": "25 October"
+	},
+
+	"Northcote": {
+		"id" : "sos",
+		"venue": "ECK Community Centre",
+		"address": "10,3 Tuck Street",
+		"time": "10:30AM to 12 Noon",
+		"day": "Sunday",
+
+		"when1": "21 August",
+		"when2": "25 September",
+		"when3": "25 October"
+
+	},
+
+
+	"Northcote": {
+		"id" : "els",
+		"venue": "Northcote Library",
+		"address": "Main Street",
+		"time": "11AM - 12Noon",
+
+		"day": "Sunday",
+		"when1": "23 August",
+		"when2": "25 September",
+		"when3": "25 October"
+
+	},
+	"Mooroopna": {
+		"id" : "sos",
+		"venue": "Mooroopna Community Library",
+		"address": "134 Main Street",
+		"time": "10:30AM to 12 Noon",
+		"day": "Sunday",
+
+		"when1": "21 August",
+		"when2": "25 September",
+		"when3": "25 October"
+
+	},
+
+
+	"Mooroopna": {
+		"id" : "els",
+		"venue": "Mooroopna Community Library",
+		"address": "34 Main Street",
+		"time": "11AM - 12Noon",
+
+		"day": "Sunday",
+		"when1": "23 August",
+		"when2": "25 September",
+		"when3": "25 October"
+
+	},
+
+
+	"Ultimo": {
+		"day": "Sunday",
+		"who": "Kerrie, 0414 913 552",
+
+		"when1": "12 August"
+		
+	},
+		"Paramatta": {
+		"day": "Saturday",
+		"who": "Nathaniel, 0466 453 711",
+
+		"when1": "28 July, 29 September"
+		
+	},
+
+		"Ultimo": {
+		"day": "Sunday",
+		"who": "Maria, 9634 5683",
+		
+		"when1": "8 July"
+		
+	}
+	
+}

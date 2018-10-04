@@ -1,0 +1,30 @@
+
+<div class="relative w-100 mb4 bg-white nested-copy-line-height">
+      <div class="bg-white mb3 pa4 darkgray overflow-hidden">
+        <span class="f6 db">{{ humanize .Section }} (/partials/event called from _default/list)</br></span>
+        <h1 class="f3 near-black">
+         
+            {{ .Title }}</br>
+        </h1>
+
+<div class="nested-links f4 lh-copy nested-copy-line-height">
+                 
+                  {{ range .Site.Data.state_vic  }}
+<div class="fw-m1 pl2 bg-lightest-blue ">{{ .day }}, {{ .time }}</div> 
+<div class="mh5 ">
+                  {{ .when1 }}</br>
+                  {{ .when2 }}</br>
+                  {{ .when3 }}</br>
+</div>
+
+<div class="fw-m2 pl2 bg-near-white">{{ .venue }}, </br>{{ .place }} - 
+  {{ .address}} <br>{{ .who }}  </div>
+                
+<div class="pb4"> <hr></div>
+
+                  {{ end }}
+          </div>
+    </div>
+
+</div>
+

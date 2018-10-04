@@ -1,0 +1,11 @@
+{{ range .Site.Data.public }}
+
+<div style="background:gold;">
+	Quote should display here
+{{ range .quotelist }}	
+{{ .quotes }}
+=>>Quote shows below here<<,=
+{{ end }}
+</div>
+
+{{ end }}
