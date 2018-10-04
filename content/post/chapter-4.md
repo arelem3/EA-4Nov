@@ -1,9 +1,9 @@
 ---
-date: 2017-04-12T11:14:48-04:00
-description: "Master Jacques Coppenole"
-featured_image: 'images/lotus.jpg'
-tags: ["scene"]
-title: "Chapter IV: Master Jacques Coppenole"
+date: 2018-09-04
+description: "New South Wales"
+featured_image: 'images/lotus2.jpg'
+tags: ["events"]
+title: "New South Wales"
 ---
 While the pensioner of Ghent and his eminence were exchanging very low
 bows and a few words in voices still lower, a man of lofty stature, with a
