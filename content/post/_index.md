@@ -1,5 +1,5 @@
 ---
 title: "Events"
-featured_image: 'images/lotus.jpg'
+featured_image: 'images/lotus2.jpg'
 ---
-This is _index.html in /posts
+_(This is _index.html in /posts)_

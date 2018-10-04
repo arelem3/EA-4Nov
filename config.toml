@@ -16,8 +16,8 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
-#  [params]
-#  custom_css = ["css/custom.css","css/custom2.css"]
+ [params]
+custom_css = ["css/custom.css","css/custom2.css"]
 
   favicon = ""
   description = "find Events in Australia."
