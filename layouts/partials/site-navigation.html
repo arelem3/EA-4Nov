@@ -3,13 +3,19 @@
 
 <!-- moved the site title to the site header -->
 
-    <div class="flex-l items-center">
+  <div class="flex-l justify-between items-center center ml4">
+
+    </a>
+</div>
+
+
+<div class="navigation flex-l items-center pt5 pb-2">
       {{ if .Site.Menus.main }}
         <ul class="pl0 mr3 ">
           {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw3  pr3 pl2 dib"><!-- ml2 sets gap between pararaphs  remove dib makes the list vertical -->
-            <a class="hover-white no-underline white-90 bg-grey" href="{{ .URL }}" title="{{ .Name }} page">
-             <ul> <li><a href="{{.URL}}">{{ .Name }}</a></li></ul>
+          <li class="list f5 f4-ns fw3  pr3 dib"><!-- ml2 sets gap between pararaphs  remove dib makes the list vertical -->
+            <a class="navs hover-white no-underline white-90 bg-white" href="{{ .URL }}" title="{{ .Name }} page">
+             <ul> <li class="navs"><a href="{{.URL}}">{{ .Name }}</a></li></ul>
             </a>
           </li>
           {{ end }}

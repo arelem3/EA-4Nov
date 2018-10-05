@@ -4,6 +4,7 @@ featured_image: 'images/lotus2.jpg'
 description: "Learn about Eckankar in Australia."
 ---
 Find events in Australia
+
 _(this is index.html in /content)_
 
 
