@@ -32,3 +32,7 @@ custom_css = ["css/custom.css","css/custom2.css"]
   background_color_class = "bg-near-white"
   featured_image = "images/lotus3a.jpg"
   recent_posts_number = 20
+
+  # Start the server  clear;clear; hugo server -D --buildDrafts --watch
+  # Create Production:
+  #HUGO_ENV=production hugo  -b"http://localhost/sites/public/"  --cleanDestinationDir 

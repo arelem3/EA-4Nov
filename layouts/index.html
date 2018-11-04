@@ -25,7 +25,7 @@
          {{ with .Site.GetPage "section" $section_name }}
           <a href="{{ .URL }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc ml3">All {{.Title }}</a>
            {{ end }}
- {{/* partial "social-follow.html" . */}}
+ {{ partial "social-follow.html" . }}
   {{ end }}
 
 {{ end }}
