@@ -1,0 +1,86 @@
+{
+
+"Moorabbin": {
+	"id" : "els",
+	"time": "11AM - 12Noon",
+	"day": "Sunday",
+	"when1": "23 August",
+	"when2": "25 September",
+	"when3": "25 October"
+
+},
+
+"Moorabbin": {
+	"id" : "sos",
+	"time": "10:30AM to 12 Noon",
+	"day": "Sunday",		
+	"when1": "21 August",
+	"when2": "25 September",
+	"when3": "25 October"
+
+},
+
+
+"Boronia": {
+	"id" : "els",
+	"time": "11AM - 12Noon",
+	"day": "Sunday",
+	"when1": "23 August",
+	"when2": "25 September",
+	"when3": "25 October"
+
+},
+
+"Boronia": {
+	"id" : "sos",
+	"time": "10:30AM to 12 Noon",
+	"day": "Sunday",
+	"when1": "21 August",
+	"when2": "25 September",
+	"when3": "25 October"
+},
+
+"Northcote": {
+	"id" : "sos",
+	"time": "10:30AM to 12 Noon",
+	"day": "Sunday",
+	"when1": "21 August",
+	"when2": "25 September",
+	"when3": "25 October"
+
+},
+
+
+"Northcote": {
+	"id" : "els",
+	"time": "11AM - 12Noon",
+	"day": "Sunday",
+	"when1": "23 August",
+	"when2": "25 September",
+	"when3": "25 October"
+
+},
+"Mooroopna": {
+	"id" : "sos",
+	"time": "10:30AM to 12 Noon",
+	"day": "Sunday",
+	"when1": "21 August",
+	"when2": "25 September",
+	"when3": "25 October"
+
+},
+
+
+"Mooroopna": {
+	"id" : "els",
+	"time": "11AM - 12Noon",
+	"day": "Sunday",
+	"when1": "23 August",
+	"when2": "25 September",
+	"when3": "25 October"
+
+}
+
+
+	
+}

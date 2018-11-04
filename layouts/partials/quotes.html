@@ -1,11 +1,9 @@
-{{ range .Site.Data.public }}
+{{ range $.Site.Data.aquote }}
 
-<div style="background:gold;">
-	Quote should display here
-{{ range .quotelist }}	
-{{ .quotes }}
-=>>Quote shows below here<<,=
-{{ end }}
-</div>
+<i>{{ .quote }} </i></br>
+{{ .author }}
+{{ .book }}
+ </br> </br>
+
 
 {{ end }}

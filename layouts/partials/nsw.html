@@ -1,0 +1,16 @@
+{{ range $.Site.Data.vic }}
+
+<div style="background:yellow; margin:0 0 2rem 1rem; padding:1rem ; width:50%">
+This is a NSW html file in partials
+	<h3> {{ .name }} </h3>
+		{{  .day }}   {{ .time }}  ~  {{ .bio }}  
+
+	{{ range .detail }}
+	 </br>
+		{{ .when1 }} </br>
+		{{ .when2 }} </br>
+		{{ .when3 }} </br>
+	{{ end }}
+</div>
+
+{{ end }} 

@@ -21,25 +21,14 @@
 
 
      <section class="flex-ns flex-wrap justify-around mt4">
-      {{range .Paginator.Pages }} <!-- commented out because it doubles up on display of partials -->
-        <div class="relative w-100 w-30-l mb2 bg-white">
-          {{ partial "event.html" . }}
-
-        </div>
-
-        <div class="relative w-100 w-30-l mb2">
-
-          {{ partial "elsvic.html" . }} 
-        
-        </div>
-
+      {{range .Paginator.Pages }} 
       {{  end }}
 
     </section>
 
     <section class="flex-ns flex-wrap justify-around mt4">
         <div class="relative w-100 w-30-l mb2 bg-white" >
-       {{  partial "quotes.html" }} 
+       {{  partial "quotes"  . }} 
        
      </div>
 

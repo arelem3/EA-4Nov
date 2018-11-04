@@ -1,0 +1,20 @@
+[{
+
+	"id": 1,
+	"venue": "ECK Community Centre",
+	"address": "10,3 Tuck Street, Moorabbin"
+},{
+	"id": 2,
+	"venue": "Boronia Progress Hall",
+	"address": "34 Boronia Rd Boronia"
+},{
+	"id": 3,
+	"venue": "Northcote Library",
+	"address": "Main Street, Northcote"
+
+},{
+	"id": 4,
+	"venue": "Mooroopna Community Library",
+	"address": "134 Main Street Mooroopna"
+
+}]
